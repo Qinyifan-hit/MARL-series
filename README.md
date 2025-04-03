@@ -4,4 +4,5 @@ Codes of Multi-Agent RL algorithms (pytorch + PettingZoo)
 codes lists：
 1. MADDPG 
 2. MATD3
-3. Updating...
+3. MAPPO
+4. Updating...
