@@ -9,7 +9,7 @@ import warnings
 import supersuit as ss
 from Env_Name import Name, ENV_MAP, Brief_Name
 
-from MAPPO_s_RNN import MAPPO_Agent
+from MAPPO_s import MAPPO_Agent
 from eval import eval_func
 from traj import traj_record
 from Norm import Normalization
